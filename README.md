@@ -1,6 +1,6 @@
 # CDB
 
-> The task required a sort of DB realized in C language saving on .txt files. The DB must have been able to execute the basic SQL operations Create, Insert and Select with one filter.
+> The task required a sort of DB realized in C language saving on .txt files. The DB must be able to execute the basic SQL operations Create, Insert and Select with one filter.
 
 ##### The project was realized by Giovanni Gobbi, Matteo Fiordarancio and Jacopo Lunadei. 
 
